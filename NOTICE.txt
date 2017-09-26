@@ -1,0 +1,7 @@
+RasterShare
+Copyright [2017] The Apache Software Foundation
+
+This product includes software developed by
+Kshithij Iyer at SICSR,Pune.
+
+The software contains code derived from Jquery.

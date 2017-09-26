@@ -1,0 +1,17 @@
+.title{
+	text-transform: capitalize;
+	text-shadow: 0.5px 0.2px black;
+	font-size: 35px;
+}
+.bio{
+	font-size: 20px;	
+}
+.gallery {
+	display: inline-flex;
+    width: 445px;
+    height: 400px;
+}
+.gallery img {
+    width: 100%;
+    height: auto;  
+}

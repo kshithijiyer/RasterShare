@@ -1,0 +1,75 @@
+.block1{
+	background-image: url("../images/texture.jpg");
+}
+.logo{
+	float: left;
+	width: 50%;
+}
+.text{
+	font-family: Arial;
+	font-size: 25px;
+	color: white;
+}
+.title{
+	font-size: 35px;
+	font-family: Arial;
+	color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #BFBFBF;
+    width: 110%;
+    font-size: 35px;
+    font-family: Arial;
+}
+li {
+    float: left;
+}	
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: #111;
+}
+.active {
+    background-color: #4CAF50;
+}
+.button{
+	background-color: #BFBFBF; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.buttonloc{
+	padding-left: 2%;
+}
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.gallery {
+	display: inline-flex;
+    width: 442px;
+    height: 400px;
+}
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+.footer{
+	font-family: Arial;
+	font-size: 15px;
+	text-align: center;
+}
