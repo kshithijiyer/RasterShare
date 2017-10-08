@@ -6,7 +6,7 @@ RasterShare is an open-source web content management System which is used by the
 *****
 2. Xampp 7.16.0 or higher
 ****
-            or
+                          OR
 ****
 2. PHP 7.1.6 or higher
 3. Mairadb 10.1.24 or higher
@@ -71,9 +71,9 @@ RasterShare has the following anchors:
 3. Anchor_usermeta - This is used to retrieve metadata about the user form usermeta table.
 4. Anchor_postdata -This is used to retrieve all the data in a post.
 
-> Each anchor has a predefined set of a variables which holds the data for that anchor which are set when some designated functions are called.
+Each anchor has a predefined set of a variables which holds the data for that anchor which are set when some designated functions are called.
 
-For more details please refer to the techincal manual.
+> For more details please refer to the techincal manual.
 
 ## Built with
 1. [Geany](https://www.geany.org/Main/HomePage)
