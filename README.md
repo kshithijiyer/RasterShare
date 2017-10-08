@@ -6,7 +6,7 @@ RasterShare is an open-source web content management System which is used by the
 *****
 2. Xampp 7.16.0 or higher
 ****
-or
+            or
 ****
 2. PHP 7.1.6 or higher
 3. Mairadb 10.1.24 or higher
