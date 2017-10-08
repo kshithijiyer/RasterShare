@@ -8,7 +8,7 @@ main feature of RaterShare is ease of use, hassle-free management of photography
 ## Buit with
 1. [Geany](https://www.geany.org/Main/HomePage)
 2. [Sublime text](https://www.sublimetext.com/)
-3. [chromium](https://www.chromium.org/Home) (For testing:p)
+3. [Chromium](https://www.chromium.org/Home) (For testing:p)
 
 ## Author
 [Kshithij Iyer](https://www.linkedin.com/in/kshithij-iyer/)
